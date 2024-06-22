@@ -4,8 +4,8 @@ public class MyService {
 
     public void myMethod(){
         System.out.println("Hii");
-        System.out.println("I am from Feature 1");
-        System.out.println("I am from Feature 2");
+        System.out.println("I am from Master 1");
+        System.out.println("I am from Master 1");
 
     }
 }
