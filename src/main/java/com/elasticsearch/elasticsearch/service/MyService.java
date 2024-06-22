@@ -4,5 +4,7 @@ public class MyService {
 
     public void myMethod(){
         System.out.println("Hii");
+        System.out.println("hello");
     }
+
 }
